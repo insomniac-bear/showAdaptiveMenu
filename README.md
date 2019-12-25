@@ -1,2 +1,2 @@
 # showAdaptiveMenu
-page for publick result
+page for public result
